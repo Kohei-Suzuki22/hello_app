@@ -1,5 +1,3 @@
-# README
-
 # Ruby on Rails Turorial
 
 ## "Hello, world!"
